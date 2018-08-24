@@ -1,13 +1,60 @@
-BANCO: DUMMY BANK
-DIRECCION: 1425 JAMES ST, PO BOX 4000
-STATEMENT PERIOD: 2003-10-08 to 2003-10-20
-CLIENTE: JOHN JONES
-CUENTA: A00010201
+Bank: DUMMY BANK
+Address: 1425 JAMES ST, PO BOX 4000
+Statement Period: 2003-10-08 to 2003-10-20
+Customer: JOHN JONES
+Account: A00010201
 
 Date:       Description:             Ref:                          Amount:        Operation:     
-20150101    Debit of 29 BOB          -3753221703650275873          29             DEBIT          
-20150101    Debit of 10 BOB          -5036530469228385903          10             DEBIT          
-20150101    Debit of 19 BOB          2665642922039664459           19             DEBIT          
-20150101    Credit of 57 BOB         8369787524269766979           57             CREDIT         
+20150101    Debit of 2 BOB           -2360906670763189818          2              DEBIT          
+20150101    Credit of 93 BOB         -4806017830053306167          93             CREDIT         
+
+-----------------
+Bank: DUMMY BANK
+Address: 1425 JAMES ST, PO BOX 4000
+Statement Period: 2003-10-08 to 2003-10-20
+Customer: JOHN JONES
+Account: A00010201
+
+Date:       Description:             Ref:                          Amount:        Operation:     
+20150101    Debit of 30 BOB          3702176318270673604           30             DEBIT          
+20150101    Debit of 34 BOB          -4468548232370414338          34             DEBIT          
+20150101    Credit of 16 BOB         210254045800972816            16             CREDIT         
+20150101    Credit of 46 BOB         -4462292131405170253          46             CREDIT         
+20150101    Debit of 28 BOB          -634004286316894095           28             DEBIT          
+
+-----------------
+Bank: DUMMY BANK
+Address: 1425 JAMES ST, PO BOX 4000
+Statement Period: 2003-10-08 to 2003-10-20
+Customer: JOHN JONES
+Account: A00010201
+
+Date:       Description:             Ref:                          Amount:        Operation:     
+20150101    Credit of 64 BOB         4358438478433687758           64             CREDIT         
+
+-----------------
+Bank: DUMMY BANK
+Address: 1425 JAMES ST, PO BOX 4000
+Statement Period: 2003-10-08 to 2003-10-20
+Customer: JOHN JONES
+Account: A00010201
+
+Date:       Description:             Ref:                          Amount:        Operation:     
+20150101    Debit of 1 BOB           3888460984676199512           1              DEBIT          
+20150101    Debit of 32 BOB          -5194362239906414995          32             DEBIT          
+20150101    Credit of 90 BOB         -4751822144610407637          90             CREDIT         
+
+-----------------
+Bank: DUMMY BANK
+Address: 1425 JAMES ST, PO BOX 4000
+Statement Period: 2003-10-08 to 2003-10-20
+Customer: JOHN JONES
+Account: A00010201
+
+Date:       Description:             Ref:                          Amount:        Operation:     
+20150101    Debit of 8 BOB           8611531840261892101           8              DEBIT          
+20150101    Debit of 36 BOB          -6619147899266246421          36             DEBIT          
+20150101    Credit of 61 BOB         -2989530037488568055          61             CREDIT         
+20150101    Debit of 31 BOB          7098936779184365804           31             DEBIT          
 
 -----------------
