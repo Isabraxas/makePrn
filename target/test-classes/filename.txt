@@ -4,7 +4,10 @@ STATEMENT PERIOD: 2003-10-08 to 2003-10-20
 CLIENTE: JOHN JONES
 CUENTA: A00010201
 
-Date:     Description:        Ref:                          Amount:        Operation:     
-20150101  No la encuentro     5028644086070723653           81             DEBIT          
+Date:       Description:             Ref:                          Amount:        Operation:     
+20150101    Debit of 29 BOB          -3753221703650275873          29             DEBIT          
+20150101    Debit of 10 BOB          -5036530469228385903          10             DEBIT          
+20150101    Debit of 19 BOB          2665642922039664459           19             DEBIT          
+20150101    Credit of 57 BOB         8369787524269766979           57             CREDIT         
 
 -----------------

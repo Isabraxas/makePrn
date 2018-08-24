@@ -14,13 +14,13 @@ public class GeneratePrn {
         try {
             PrintWriter writer = new PrintWriter("/home/isvar/Documents/Fix-dummy-bank/old/adaptercorebankprn/src/test/resources/filename.txt", "UTF-8");
 
-            writer.printf("BANCO: %s","DUMMY BANK\n");
-            writer.printf("DIRECCION: %s","1425 JAMES ST, PO BOX 4000\n");
-            writer.printf("STATEMENT PERIOD: %s","2003-10-08 to 2003-10-20\n");
-            writer.printf("CLIENTE: %s","JOHN JONES\n");
-            writer.printf("CUENTA: %s","A00010201\n\n");
+            writer.printf("Bank: %s","DUMMY BANK\n");
+            writer.printf("Address: %s","1425 JAMES ST, PO BOX 4000\n");
+            writer.printf("Statement Period: %s","2003-10-08 to 2003-10-20\n");
+            writer.printf("Customer: %s","JOHN JONES\n");
+            writer.printf("Account: %s","A00010201\n\n");
 
-            int dateSize=10, descSize=20, refSize=30, amountSize=15, operationSize=15 ;
+            int dateSize=12, descSize=25, refSize=30, amountSize=15, operationSize=15 ;
 
             String date= "Date:     ";
             writer.print(returnDelimArray(date,dateSize));
@@ -41,7 +41,7 @@ public class GeneratePrn {
             for (StatementDetail statementDetail: statementDetailList) {
 
                 writer.print(returnDelimArray(statementDetail.getDate(),dateSize));
-                writer.print(returnDelimArray("No la encuentro",descSize));
+                writer.print(returnDelimArray(statementDetail.getAnnotation(),descSize));
                 writer.print(returnDelimArray(statementDetail.getReferenceNumber(),refSize));
                 System.out.println("Ref ("+") :"+statementDetail.getReferenceNumber());
                 writer.print(returnDelimArray(statementDetail.getAmount().toString(),amountSize));
