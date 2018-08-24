@@ -1,0 +1,32 @@
+,DUMY BANK,,,,
+,"1425 JAMES ST, PO BOX 4000",,CHEQUING ACCOUNT STATEMENT,,
+,VICTORIA BC V8X 3X4       1-800-555-55555,,,Page : 1 of 1,
+,,,,,
+,,,,,
+,JOHN JONES,,Statement period,,Account No.
+,1643 DUNDAS ST W APT 27,,2003-10-08 to 2003-10-25,,00005-1230456-7
+,TORONT ON M6K 1V2,,,,
+,,,,,
+,,,,,
+,,,,,
+Date,Description,Ref.,Whithdrawals,Deposits,Balance
+2003-10-08,Previous balance,,,,0.55
+2003-10-09,Payroll Deposit - HOTEL,,,694.81,695.36
+2003-10-10,Web Bill Payment - MASTERCARD,,200.00,,495.36
+2003-10-11,ATM Withdrawal - INTERAC,,21.25,,474.11
+2003-10-12,Fees - Interac,,1.50,,472.61
+2003-10-13,Interac Purchase - ELECTRONICS,,2.99,,469.62
+2003-10-14,Web Bill Payment - AMEX,,300.00,,169.62
+2003-10-15,ATM Withdrawal - FIRST BANK,,100.00,,69.62
+2003-10-16,Interac Purchase - SUPERMARKET,,29.08,,40.54
+2003-10-17,Interac Refund - ELECTRONICS,,,2.99,43.53
+2003-10-18,Telephone Bill Payment - VISA,,6.77,,36.76
+2003-10-19,Payroll Deposit - HOTEL,,,694.81,731.57
+2003-10-20,Web Funds Transfer - From SAVINGS,,,50.00,781.57
+2003-10-21,Pre-Auth. Payment - INSURANCE,,33.55,,748.02
+2003-10-22,Cheque No. - 409,,100.00,,648.02
+2003-10-23,Mortgage Payment,,710.49,,-62.47
+2003-10-24,Fees - Overdraft,,5.00,,-67.47
+2003-10-25,Fees - Monthly,,5.00,,-72.47
+,,,,,
+,***Totals***,,"1,515.63","1,442.61",

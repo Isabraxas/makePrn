@@ -1,0 +1,12 @@
+BANCO: DUMMY BANK
+DIRECCION: 1425 JAMES ST, PO BOX 4000
+STATEMENT PERIOD: 2003-10-08 to 2003-10-20
+CLIENTE: JOHN JONES
+CUENTA: A00010201
+
+Date:     Description:        Ref:                          Amount:        Operation:     
+20150101  No la encuentro     -1635067033691183005          52             CREDIT         
+20150101  No la encuentro     -4005453671978598563          59             CREDIT         
+20150101  No la encuentro     -9082479697206395760          29             DEBIT          
+
+-----------------
